@@ -1,0 +1,15 @@
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\bin\Debug\net8.0\3-3new.exe
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\bin\Debug\net8.0\3-3new.deps.json
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\bin\Debug\net8.0\3-3new.runtimeconfig.json
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\bin\Debug\net8.0\3-3new.dll
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\bin\Debug\net8.0\3-3new.pdb
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.AssemblyInfoInputs.cache
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.AssemblyInfo.cs
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.csproj.CoreCompileInputs.cache
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.sourcelink.json
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.dll
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\refint\3-3new.dll
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.pdb
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\3-3new.genruntimeconfig.cache
+C:\Users\NMariaCat\Desktop\3-3!!!\3-3new\3-3new\obj\Debug\net8.0\ref\3-3new.dll
